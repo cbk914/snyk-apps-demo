@@ -86,7 +86,7 @@
     "luxon": "^2.0.2",
     "passport": "^0.4.1",
     "passport-oauth2": "^1.6.1",
-    "qs": "^6.10.1"
+    "qs": "^6.10.2"
   },
   "nodemonConfig": {
     "ignore": [
