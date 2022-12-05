@@ -76,7 +76,7 @@
     "dotenv": "^10.0.0",
     "ejs": "^3.1.6",
     "envar-check": "0.0.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-rate-limit": "^5.3.0",
     "express-session": "^1.17.2",
     "form-data": "^4.0.0",
@@ -86,7 +86,7 @@
     "luxon": "^2.0.2",
     "passport": "^0.4.1",
     "passport-oauth2": "^1.6.1",
-    "qs": "^6.10.1"
+    "qs": "^6.10.3"
   },
   "nodemonConfig": {
     "ignore": [
